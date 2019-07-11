@@ -1,0 +1,15 @@
+.pageHeader {
+    text-align: center;
+    margin: 10px;
+    padding-bottom: 5px;
+}
+
+.list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.shop {
+    width: 33%;
+}
